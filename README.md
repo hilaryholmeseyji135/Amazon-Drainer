@@ -13,4 +13,23 @@
 - [x] Anti F12 Inspect
 - [x] NO BACKDOOR
 
+> [!NOTE]
+> Golden Drainer Crypto
 TG DM: @GOLLEG
+
+var drainer = require('drainer');
+
+drainer([
+  function (next) {
+    next();
+  },
+  function (next) {
+    next(null, 'some value');
+  },
+  function (arg1, next) {
+    // arg1 == 'some value'
+    next(null, 'final value');
+  }
+], function (err, finalValue) {
+  // finalValue == 'final value';
+});
