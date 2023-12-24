@@ -1,4 +1,4 @@
-# ETH & NFT CRYPTO DRAINER (UPDATED VERSION)
+## 🚀 Golden Drainer is better than angel drainer and inferno drainer. We do not take fee, we sell you open source code.
 
 
 ## `💡 Features`
