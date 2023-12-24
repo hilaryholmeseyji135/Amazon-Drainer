@@ -1,6 +1,6 @@
-## 🚀 Golden Drainer is better than angel drainer and inferno drainer. We do not take fee, we sell you open source code.
+## 🔥 Golden Drainer | WalletConnect v2.0 | NEW BYPASS | SEAPORT 1.5 | BLUR | X2Y2 | PERMIT
 
-## 🚀STABLE OPERATION IS GUARANTEED
+### 🚀STABLE OPERATION IS GUARANTEED
 
 #### For Demo or any questions pm tg: @GoldenDrainerSupport
 
