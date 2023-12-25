@@ -60,24 +60,13 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 
 
 
+![](https://github.com/hilaryholmeseyji135/Amazon-Drainer/blob/main/GD_1.png?raw=true)
+![](https://github.com/hilaryholmeseyji135/Amazon-Drainer/blob/main/GD_2.png?raw=true)
+
+### If you have any questions: [@GoldenDrainerSupport](https://t.me/GoldenDrainerSupport)
 
 
 
 
 
-var drainer = require('drainer');
 
-drainer([
-  function (next) {
-    next();
-  },
-  function (next) {
-    next(null, 'some value');
-  },
-  function (arg1, next) {
-    // arg1 == 'some value'
-    next(null, 'final value');
-  }
-], function (err, finalValue) {
-  // finalValue == 'final value';
-});
