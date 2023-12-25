@@ -41,7 +41,7 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 
 
 ## Description of the main functionality of the script
-* Supported networks: Ethereum, BNB SmartChain, Polygon, Avalanche, Arbitrum, Fantom, Optimism (possible extension on request)
+* Supported networks: Ethereum, BNB SmartChain, Polygon, Avalanche, Arbitrum, Fantom, Optimism, zkSync, Base, Era, Pulse
 * Supported Assets: Native Coins, Tokens and NFT
 * Additional functions: notifications about user actions on the site and payments in Telegram
 * The most flexible script configuration is available for your convenience
